@@ -1,0 +1,40 @@
+_repo: Cavity-Nesting-Birds-of-North-American-Forests-Agriculture-Handbook-511_49172
+contributor:
+  illustrator:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Uncle Herbert
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+creator:
+  authors:
+  - agent_name: Stone, Charles P.
+    gutenberg_agent_id: '45179'
+    url: http://www.gutenberg.org/2009/agents/45179
+  - agent_name: Scott, Virgil E.
+    gutenberg_agent_id: '45176'
+    url: http://www.gutenberg.org/2009/agents/45176
+  - agent_name: Evans, Keith E.
+    gutenberg_agent_id: '45177'
+    url: http://www.gutenberg.org/2009/agents/45177
+  - agent_name: Patton, David R.
+    gutenberg_agent_id: '45178'
+    url: http://www.gutenberg.org/2009/agents/45178
+description: ''
+gutenberg_issued: '2015-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Cavity-Nesting Birds of North American Forests
+
+  Agriculture Handbook 511'
+url: http://www.gutenberg.org/ebooks/49172
