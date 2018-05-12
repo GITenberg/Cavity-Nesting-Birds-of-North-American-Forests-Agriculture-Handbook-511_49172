@@ -1,4 +1,5 @@
 _repo: Cavity-Nesting-Birds-of-North-American-Forests-Agriculture-Handbook-511_49172
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -11,6 +12,9 @@ contributor:
     gutenberg_agent_id: '1513'
     url: http://www.gutenberg.org/2009/agents/1513
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+covers:
+- cover_type: archival
+  image_path: 49172-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stone, Charles P.
@@ -26,6 +30,8 @@ creator:
     gutenberg_agent_id: '45178'
     url: http://www.gutenberg.org/2009/agents/45178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49172#Cavity-Nesting-Birds-of-North-American-Forests-Agriculture-Handbook-511
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
